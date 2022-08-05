@@ -9,5 +9,5 @@
   <li>Gif image of the project is below. 👇 Hope you like the project! </li>
 </ul>  
 <div class="pics">
-  <img src="https://musatirgithub.github.io/OurToursReact/OurToursReact.gif" width="600px">
+  <img src="https://github.com/musatirgithub/OurToursReact/blob/master/OurToursReact.gif?raw=true" width="600px">
 </div>
